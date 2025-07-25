@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Content from "./Components/content"
 import Aboutme from './Components/Aboutme'
 import Teac from './Components/Teac'
