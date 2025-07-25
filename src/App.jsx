@@ -1,11 +1,11 @@
-import React from 'react'
 import Navbar from './components/Navbar'
-import Content from "./Components/Content"
-import Aboutme from './Components/Aboutme'
-import Teac from './Components/Teac'
-import Experience from "./Components/Experience"
-import Project from './Components/Project'
-import Contact from './Components/Contact'
+import Content from './components/Content'
+import Aboutme from './components/Aboutme'
+import Teac from './components/Teac'
+import Experience from './components/Experience'
+import Project from './components/Project'
+import Contact from './components/Contact'
+
 
 const App = () => {
   return (
