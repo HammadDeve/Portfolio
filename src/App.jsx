@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import Content from "./Components/content"
+import Content from "./Components/Content"
 import Aboutme from './Components/Aboutme'
 import Teac from './Components/Teac'
 import Experience from "./Components/Experience"
